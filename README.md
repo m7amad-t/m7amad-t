@@ -19,8 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/m7amad_tahir" target="blank"><img align="center" src="https://imgs.search.brave.com/7ejF-Jg2d1pHmOHYyQDgcSVheXJRdhSU-WvmCLOJy-Y/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9hc3Ryb25hdXQt/d2l0aC1nb2xkZmlz/aC1ib3dsLWZ1bGwt/d2F0ZXItZ2VuZXJh/dGl2ZS1haV84NjA1/OTktMjk0LmpwZz9z/aXplPTYyNiZleHQ9/anBn" alt="protofilo" height="30" width="40" /></a>
+<a href="https://instagram.com/m7amad_tahir" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="protofilo" height="30" width="40" /></a>
 </p>
+
+<a href="https://mohammad-tahir.web.app/#/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10582/10582218.png" alt="protofilo" height="30" width="40" /></a>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
