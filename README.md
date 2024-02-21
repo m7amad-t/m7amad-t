@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **mhamadtahir2003@gmail.com**
 
