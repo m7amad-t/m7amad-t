@@ -15,8 +15,7 @@
 - 📫 How to reach me **mhamadtahir2003@gmail.com**
 
 
-<a href="https://mohammad-tahir.web.app/#/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10582/10582218.png" alt="protofilo" height="30" width="40" /></a>
-</p>
+
 
 
 
