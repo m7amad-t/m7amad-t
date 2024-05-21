@@ -16,10 +16,6 @@
 
 - 📫 How to reach me **mhamadtahir2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/m7amad_tahir" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="protofilo" height="30" width="40" /></a>
-</p>
 
 <a href="https://mohammad-tahir.web.app/#/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10582/10582218.png" alt="protofilo" height="30" width="40" /></a>
 </p>
