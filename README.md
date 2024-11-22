@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **4th stage's final project**
 
-- 👨‍💻 All of my projects are available at [https://m7amad-t.web.app/](https://m7amad-t.web.app/)
+- 👨‍💻 Portfolio  [https://m7amad-t.web.app/](https://m7amad-t.web.app/)
 
 - 📫 How to reach me **mhamadtahir2003@gmail.com**
 
