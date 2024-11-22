@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7amad-t&label=Profile%20views&color=0e75b6&style=flat" alt="m7amad-t" /> </p>
 
-- 🔭 I’m currently working on **4th stage final project**
+- 🔭 I’m currently working on **4th stage's final project**
 
 - 👨‍💻 All of my projects are available at [https://m7amad-t.web.app/](https://m7amad-t.web.app/)
 
