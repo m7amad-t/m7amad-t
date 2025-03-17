@@ -51,10 +51,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m7amad-t&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-</p>
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random dev quote">
+</div>
 
 ###
 <br>
