@@ -2,12 +2,13 @@
 <h2 align="center">Welcome👋</h2>
 
 <div align="center">
-  <img height="400" src="https://github.com/m7amad-t/m7amad-t/blob/main/image.JPEG"  />
+  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnUxcGp5YjZtemJqb3FoOWJmcWEzM3czZ2x5ZHdjYjZvdXJlOW84YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif"  />
 </div>
 
 
 
 
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m7amad_tahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m7amad-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamadtahir2003@gmail.com) 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=m7amad-t&theme=dark&hide_border=false)<br/>
