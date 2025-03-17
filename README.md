@@ -5,26 +5,11 @@
   <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnUxcGp5YjZtemJqb3FoOWJmcWEzM3czZ2x5ZHdjYjZvdXJlOW84YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif"  />
 </div>
 
-
-<div>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m7amad_tahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m7amad-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamadtahir2003@gmail.com) 
-![](https://nirzak-streak-stats.vercel.app/?user=m7amad-t&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m7amad-t&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    
-</div>
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m7amad-t&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=m7amad-t&icon=4&color=13)](https://visitcount.itsvg.in)
-
 ###
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m7amad_tahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m7amad-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamadtahir2003@gmail.com) 
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -51,19 +36,28 @@
 </div>
 
 
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m7amad_tahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m7amad-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamadtahir2003@gmail.com) 
+![](https://nirzak-streak-stats.vercel.app/?user=m7amad-t&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m7amad-t&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=m7amad-t&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=m7amad-t&icon=4&color=13)](https://visitcount.itsvg.in)
+
+###
+
 <br clear="both">
 
-<div style="background-color: #14141f; color: #44d9b6; padding: 20px; border-radius: 10px; max-width: 400px; text-align: center; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);">
-    <p style="font-size: 30px; color: #c58afd; margin: 0;">❝</p>
-    <p style="font-size: 18px; font-weight: bold; margin: 10px 0;">
-        Learning to program has no more to do with designing interactive software than 
-        learning to touch type has to do with writing poetry.
-    </p>
-    <p style="font-size: 30px; color: #c58afd; margin: 0;">❞</p>
-    <p style="color: #7a8cff; font-style: italic; margin-top: 10px;">- Ted Nelson</p>
-</div>
-
-<br>
 
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEycWxuZmZ1MjAzb3kyb2VvNzBpMTdwc3ZtbWRpeDB2djVvc2tvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
