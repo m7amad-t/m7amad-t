@@ -1,10 +1,26 @@
-<h2 align="center">Welcome</h2>
 
-###
+<h2 align="center">Welcome👋</h2>
 
 <div align="center">
   <img height="400" src="https://github.com/m7amad-t/m7amad-t/blob/main/image.JPEG"  />
 </div>
+
+
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m7amad_tahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m7amad-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamadtahir2003@gmail.com) 
+
+![](https://nirzak-streak-stats.vercel.app/?user=m7amad-t&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m7amad-t&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=m7amad-t&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=m7amad-t&icon=4&color=13)](https://visitcount.itsvg.in)
 
 ###
 
@@ -32,27 +48,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEycWxuZmZ1MjAzb3kyb2VvNzBpMTdwc3ZtbWRpeDB2djVvc2tvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/m7amad_tahir/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=E4105F&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mhamadtahir2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/m7amad-t/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
