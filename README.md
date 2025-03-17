@@ -7,7 +7,8 @@
 
 ###
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m7amad_tahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m7amad-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamadtahir2003@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m7amad_tahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m7amad-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamadtahir2003@gmail.com)<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7amad-t&label=Profile%20views&color=0e75b6&style=flat" alt="m7amad-t" /> </p>
+
 
 
 
@@ -50,14 +51,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m7amad-t&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=m7amad-t&icon=4&color=13)](https://visitcount.itsvg.in)
 
 ###
-
+<br>
 <br clear="both">
 
 <h4 align="center">“ oyc unat' olts osemhtniy guo enevrh da “</h4>
